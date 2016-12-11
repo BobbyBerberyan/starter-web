@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bobby Berberyan		bobby.berberyan@gmail  @bobbyberberyan
 
 # THANKS
 
