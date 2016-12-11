@@ -19,6 +19,9 @@ demos.
 
 This is a simple we project, deployment
 can be on any web server or even local
-file system.
+file system.	
 
 ## How to Contribute
+
+### Copyright
+2016 Git.Training
